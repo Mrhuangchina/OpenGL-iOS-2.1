@@ -15,6 +15,7 @@
 		A3B5BD1C1ECDCBE300D0DB6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3B5BD1A1ECDCBE300D0DB6F /* LaunchScreen.storyboard */; };
 		A3B5BD271ECDCBE300D0DB6F /* OpenGL_iOS_2_1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3B5BD261ECDCBE300D0DB6F /* OpenGL_iOS_2_1Tests.m */; };
 		A3B5BD321ECDCBE300D0DB6F /* OpenGL_iOS_2_1UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3B5BD311ECDCBE300D0DB6F /* OpenGL_iOS_2_1UITests.m */; };
+		A3B5BD421ECDD12100D0DB6F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A3B5BD411ECDD12100D0DB6F /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A3B5BD2D1ECDCBE300D0DB6F /* OpenGL-iOS-2.1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OpenGL-iOS-2.1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3B5BD311ECDCBE300D0DB6F /* OpenGL_iOS_2_1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OpenGL_iOS_2_1UITests.m; sourceTree = "<group>"; };
 		A3B5BD331ECDCBE300D0DB6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3B5BD411ECDD12100D0DB6F /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A3B5BD121ECDCBE300D0DB6F /* ViewController.h */,
 				A3B5BD131ECDCBE300D0DB6F /* ViewController.m */,
 				A3B5BD151ECDCBE300D0DB6F /* Main.storyboard */,
+				A3B5BD411ECDD12100D0DB6F /* Default-568h@2x.png */,
 				A3B5BD181ECDCBE300D0DB6F /* Assets.xcassets */,
 				A3B5BD1A1ECDCBE300D0DB6F /* LaunchScreen.storyboard */,
 				A3B5BD1D1ECDCBE300D0DB6F /* Info.plist */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3B5BD1C1ECDCBE300D0DB6F /* LaunchScreen.storyboard in Resources */,
+				A3B5BD421ECDD12100D0DB6F /* Default-568h@2x.png in Resources */,
 				A3B5BD191ECDCBE300D0DB6F /* Assets.xcassets in Resources */,
 				A3B5BD171ECDCBE300D0DB6F /* Main.storyboard in Resources */,
 			);
